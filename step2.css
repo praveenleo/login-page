@@ -1,0 +1,75 @@
+.container{
+    position: relative;
+    left: 595px;
+    border: 1px solid black;
+    height: 373px;
+    width: 650px;   
+    background-color:white;
+    top: 159px;
+}
+.email{
+    width: 310px;
+    margin-bottom: 10px;
+    height: 37px;
+}
+.password{
+    width: 310px;
+    height: 37px;
+}
+.login{
+    position: relative;
+    top: 27px;
+    width: 318px;
+    height: 48px;
+    background-color: royalblue;
+    color:white;
+    font-weight: bold;
+    font-size: 21px;
+}
+.forgot{
+    position: relative;
+    top: 30px;
+    color:royalblue;
+    left: 32px;
+}
+.not{
+    position: relative;
+    top: 32px;
+    left: 129px;
+    color: royalblue;
+}
+.head{
+    position: relative;
+    left: 62px;
+    font-size: 23px;
+}
+.move{
+    position: relative;
+    left: 168px;
+}
+.border{
+    background-color: royalblue;
+    width: 10000px;
+    height: 75px;
+    color:white;
+    font-size:50px;
+    position: relative;
+    right: 10px;
+    bottom: 49px;
+}
+
+.facebook{
+    position: relative;
+    left: 714px;
+    font-weight: bold;
+    top: 13px;
+    
+}
+.create{
+    font-size: 17px;
+    background-color: green;
+    border: 9px solid green;
+    width: 41px;
+    position: relative;
+    bottom: 19px;
+}

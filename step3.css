@@ -1,0 +1,72 @@
+.container{
+    position: relative;
+    left: 638px;
+    border: 1px solid;
+    height: 500px;
+    width:488px;
+    top: 167px;
+}
+.inputype{
+    width: 344px;
+    height: 41px;
+    border-radius: 10px;
+    position: relative;
+    left: -40px;
+    top: 18px;
+}
+.login{
+    position: relative;
+    top: 49px;
+    right: 40px;
+    width:353px;
+    height:45px;
+    border-radius:10px;
+    background-color: royalblue;
+    color:white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.or{
+    position: relative;
+    top: 76px;
+    width: 335px;
+    right: 108px;
+}
+.create{
+    position: relative;
+    top: 49px;
+    left: 68px;
+}
+.backto{
+    left: -90px;
+    position: relative;
+    top: 100px;
+    width: 490px;
+    height: 54px;
+}
+
+.move{
+    position: relative;
+    left: 128px;
+    top: 49px;
+    border: 1px solid white;
+    background-color: white;
+    width: 21px;
+}
+h3{
+    position: relative;
+    left: 49px;
+}
+.final{
+    position: relative;
+    left: 89px;
+    top: 24px;
+}
+.six{
+    position: relative;
+    left: 125px;
+
+}
+.para{
+    color:grey;
+}

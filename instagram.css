@@ -1,0 +1,91 @@
+@font-face { font-family: Billabong; src: url("https://fontsfree.net//wp-content/fonts/script/calligraphy/FontsFree-Net-Billabong.ttf"); } 
+
+.container{
+    position: relative;
+    left: 679px;
+    border: 1px solid black;
+    width:308px;
+    height: 451px;
+    top: 139px;
+}
+.child1{
+    width: 265px;
+    height: 36px;
+    margin-bottom: 14px;
+}
+.child2{
+    width: 265px;
+    height: 36px;
+    margin-bottom: 14px;
+}
+.button{
+    width: 278px;
+    height: 38px;
+    border-radius: 7px;
+    background-color: royalblue;
+    color:white;
+    font-weight: bold;
+}
+
+.forgotten{
+    position: relative;
+    left: 53px;
+    color:blue;
+}
+.signup{
+    position: relative;
+    right: 11px;
+    border: 1px solid grey;
+    width: 255px;
+    height:13px;
+    padding: 26px;
+    background-color: white;
+    text-align: center;
+}
+.fb{
+    position: relative;
+    left: 39px;
+    color: royalblue;
+    
+}
+.color{
+    color:blue;
+}
+.font{
+    font-family:"Billabong";
+    font-size: 83px;
+    position: relative;
+    right: -4px;
+}
+.con{
+    position: relative;
+    top: -38px;
+}
+.or{
+    position: relative;
+    top: -26px;
+    left: 128px;
+    border: .5px solid white;
+    background-color: white;
+    width: 21px;
+}
+hr{
+    width: 265px;
+    position: relative;
+    right: 21px;
+}
+.move{
+    position: relative;
+    top: 23px;  
+}
+.final{
+    position: relative;
+    left: 10px;
+}
+a:hover{
+    color:green;
+}
+.one{
+    position: relative;
+    left: -10px;
+}

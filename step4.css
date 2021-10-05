@@ -1,0 +1,109 @@
+@font-face{font-family:Billabong;src:url("https://fontsfree.net//wp-content/fonts/script/calligraphy/FontsFree-Net-Billabong.ttf");}
+
+
+.container{
+    position: absolute;
+    left: 635px;
+    border: 1px solid black;
+    width: 400px;
+    top: 110px;
+}
+.header{
+    font-weight: bold;
+    position: relative;
+    left: 86px;
+    top: 26px;
+    font-size: 40px;
+    font-family: "Billabong";
+}
+.p{
+    font-size: 19px;
+    font-weight: bold;
+    color: grey;
+    left: 40px;
+    position: relative;
+    left: 41px;
+}
+.button{
+    width: 290px;
+    height: 36px;
+    background-color: dodgerblue;
+    border-radius: 11px;
+    color:white;
+    font-weight: bold;
+    font-size:14px;
+}
+.line{
+    position: relative;
+    top: 13px;
+    left: -45px;
+    width: 399px;
+}
+.or{
+    position: relative;
+    bottom: 13px;
+    left: 127px;
+    border: 7px solid white;
+    width: 25px;
+    height: 4px;
+    background-color: white;
+    top: -20px;
+
+}
+.input1{
+    width: 271px;
+    height: 34px;
+    margin-bottom: 15px;
+}
+.input2{
+    width: 271px;
+    height: 34px;
+    margin-bottom: 15px;
+}
+.input3{
+    width: 271px;
+    height: 34px;
+    margin-bottom: 15px;
+}
+.input4{
+    width: 271px;
+    height: 34px;
+    margin-bottom: 15px;
+}
+.signup{
+    width: 290px;
+    height: 36px;
+    background-color: dodgerblue;
+    border-radius: 11px;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    position: relative;
+    left: -6px;
+}
+.para1{
+
+}
+.parra2{
+    position: relative;
+    left: 58px;
+    bottom: 9px;
+}
+.account{
+    position: relative;
+    left: 5px;
+    width: 267px;
+    height: 37px;
+    border: 1px solid black;
+    padding-top: 18px;
+    text-align: center;
+}
+span{
+    color:royalblue;
+}
+.child{
+    position: relative;
+    left: 45px;
+    bottom: 35px;
+}
+}
